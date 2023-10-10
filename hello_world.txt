@@ -2,3 +2,4 @@ Hello World!
 nice to meet you
 good work
 commit messages in vscode itself
+checking terminal
